@@ -13,6 +13,7 @@ Welcome to my GitHub! I'm a passionate IT student learning how to build websites
 ## 📌 Projects I'm Working On
 
 - 🧮 [Simple Calculator](https://simple-calculator-kent.netlify.app/): A basic calculator made with HTML, CSS, and JavaScript.
+- 📘 [Webdev Journey Website](https://playful-malasada-fc1075.netlify.app/): A responsive website with a header, nav bar, sidebar, and main content area. It includes 4 modules summarizing what I’ve learned and the videos I’ve watched so far from the Web Development Fundamentals course by iCreatechs.  
 - 📝 More beginner-friendly web projects coming soon!
 
 ## 💡 Fun Fact
